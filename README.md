@@ -36,6 +36,7 @@
 
 ## 🧠 AI Fraud Detection System
  🔗 https://github.com/zeryabk1/fraud-detection
+ 
 AI-based system for financial security and anomaly detection:
 - Fraud Transaction Detection
 - Fake Invoice Identification
@@ -61,7 +62,6 @@ Voice-based assistant built using:
 
 Features:
 - Employee Attendance Tracking
-🔗 https://github.com/zeryabk1/EmployeeAttendanceManagementSystem
 - QR / Manual Attendance System
 - Admin Dashboard
 - Attendance Reports Generation
