@@ -107,7 +107,7 @@ Advanced drawing application featuring:
 </a>
 
 <a href="[https://linkedin.com](https://www.linkedin.com/in/zeryab-khan-b83383277/)">
-  <img src="[https://skillicons.dev/icons?i=linkedin]" />
+  <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 </p>
