@@ -18,12 +18,6 @@
 - System Design
 - Server Infrastructure
 
-🛠️ Currently Building:
-- AI Finance Manager
-- Machine Learning Projects
-- Backend APIs & Systems
-- Voice-Based AI Assistants
-- VPS Deployment Architectures
 
 🎯 Goal:
 > Become a high-level systems engineer building scalable AI-powered real-world solutions.
