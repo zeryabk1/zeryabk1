@@ -106,14 +106,10 @@ Advanced drawing application featuring:
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://linkedin.com">
-  <img src="[https://skillicons.dev/icons?i=linkedin](https://www.linkedin.com/in/zeryab-khan-b83383277/)" />
+<a href="[https://linkedin.com](https://www.linkedin.com/in/zeryab-khan-b83383277/)">
+  <img src="[https://skillicons.dev/icons?i=linkedin]" />
 </a>
 
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zeryabk1&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
