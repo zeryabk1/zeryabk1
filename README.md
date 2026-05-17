@@ -38,19 +38,21 @@
 
 ---
 
-# 📌 Featured Projects
+## 📌 Featured Projects
 
-## 💰 AI Finance Manager
-AI-powered financial analysis system featuring:
-- Cash Flow Prediction
-- Fraud Detection
+## 🧠 AI Fraud Detection System
+ 🔗 https://github.com/zeryabk1/fraud-detection
+AI-based system for financial security and anomaly detection:
+- Fraud Transaction Detection
+- Fake Invoice Identification
 - Duplicate Vendor Detection
-- Fake Invoice Detection
-- AI Insights Dashboard
+- Anomaly Pattern Analysis
+- Risk Scoring Dashboard
 
 ---
 
 ## 🎤 AI Voice Assistant
+
 Voice-based assistant built using:
 - SpeechRecognition
 - pyttsx3
@@ -60,17 +62,28 @@ Voice-based assistant built using:
 
 ---
 
+## 👨‍💼 Employee Attendance Management System
+🔗 https://github.com/zeryabk1/EmployeeAttendanceManagementSystem
 
-## 🎨 OpenCV Drawing Application
-Advanced drawing application featuring:
-- Shape Tools
-- Undo/Redo System
-- Layer Management
-- Color & Thickness Controls
-- Save & Export Features
+Features:
+- Employee Attendance Tracking
+🔗 https://github.com/zeryabk1/EmployeeAttendanceManagementSystem
+- QR / Manual Attendance System
+- Admin Dashboard
+- Attendance Reports Generation
+- Database Management System
 
 ---
 
+## 🎵 Spotify Clone
+🔗 https://github.com/zeryabk1/spotify-clone
+
+Features:
+- Music Streaming UI Clone
+- Playlist Management
+- Play/Pause Controls
+- Responsive Frontend Design
+- Modern UI/UX Experience
 # ⚙️ Current Interests
 
 - Machine Learning
