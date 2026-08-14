@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zeryab Khan</h1>
-<h3 align="center">Computer Engineering Student | Data Science & AI/ML Enthusiast</h3>
+<h3 align="center">Computer Science Student | Data Science & AI/ML Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Data+Science+Enthusiast;AI+%26+Machine+Learning+Developer;Python+Backend+Developer;Computer+Engineering+Student;Voice+Assistant+Builder;System+Design+Learner" />
@@ -12,13 +12,10 @@
 🎓 Computer Engineering Student passionate about solving real-world problems using Data Science and AI/ML technologies.
 
 💡 My focus areas include:
+-Business Intellgience Anaylst & Data Analyst
 - Data Science
 - Artificial Intelligence & Machine Learning
 - Backend Engineering
-- System Design
-- Server Infrastructure
-
-
 🎯 Goal:
 > Become a high-level systems engineer building scalable AI-powered real-world solutions.
 
