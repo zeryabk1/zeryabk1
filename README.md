@@ -2,14 +2,14 @@
 <h3 align="center">Computer Science Student | Data Science & AI/ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Data+Science+Enthusiast;AI+%26+Machine+Learning+Developer;Python+Backend+Developer;Computer+Engineering+Student;Voice+Assistant+Builder;System+Design+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Data+Science+Enthusiast;AI+%26+Machine+Learning+Developer;Python+Backend+Developer;Computer+Science+Student;Business+Intelligence+Analsyt;" />
 </p>
 
 ---
 
 # 🚀 About Me
 
-🎓 Computer Engineering Student passionate about solving real-world problems using Data Science and AI/ML technologies.
+🎓 Computer Science Student passionate about solving real-world problems using Data Science and AI/ML technologies.
 
 💡 My focus areas include:
 -Business Intellgience Anaylst & Data Analyst
